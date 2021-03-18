@@ -1,6 +1,8 @@
 # Kodluyoruz Front-End Eğitimi Bootstrap Instagram Clone Ödevi
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde verilen Bootstrap Instagram Klonu ödevini içeriyor. İçerisinde bir adet README dosyası, index.html, syle.css ve bir adet svg dosyası içeriyor.
 
+![GIF](/assets/instagram.gif)
+
 ## Installation
 Öncelikle projeyi clonelayın
 
